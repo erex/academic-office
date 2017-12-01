@@ -8,11 +8,11 @@ date = "2016-04-20T00:00:00"
 weight = 5
 
 # List your academic interests.
-[interests]
-  interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+[Objectives]
+  objectives = [
+    "Fundamental concepts of sampling",
+    "Modelling of detection function",
+    "Producing reliable estimates"
   ]
 
 # List your qualifications (such as academic degrees).
