@@ -17,6 +17,6 @@ weight = 20
 
 - Lecture 1  It has some clever name
     - {{< youtube fVTmRzpD9Aw >}}
-	- {{%/* staticref "files/lect1.pdf" */%}}Handout{{%/* /staticref */%}} 
+	- {{% staticref "files/lect1online Introduction.pdf" %}}Handout{{% /staticref %}} 
 - CS102: An intro to computer science
 - CS103: An intro to computer science
