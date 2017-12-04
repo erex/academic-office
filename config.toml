@@ -1,7 +1,7 @@
 baseurl = "/"  
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
 title = "Distance sampling online course"
-copyright = "&copy; 2017 Your Name"
+copyright = "&copy; 2017 Eric Rexstad St Andrews"
 theme = "hugo-academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
@@ -48,12 +48,12 @@ defaultContentLanguageInSubdir = false
   organizations = [ { name = "St Andrews University", url = "" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "eric_rexstad2.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "test@example.org"
-  address = "Building 1 Room 1, Stanford University, California, 90210, USA"
-  office_hours = "Monday 10:00 to 13:00 or email for appointment"
-  phone = "888 888 88 88"
-  skype = "echo123"
+  avatar = "distance-logo-big.gif"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  email = "distance@st-andrews.ac.uk"
+  address = "The Observatory, University of St Andrews, KY16 9LZ Scotland"
+  office_hours = ""
+  phone = ""
+  skype = ""
   telegram = ""
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
@@ -211,7 +211,7 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "twitter"
     icon_pack = "fa"
-    link = ""
+    link = "@distancesamp"
 
   [[params.social]]
     icon = "google-scholar"
