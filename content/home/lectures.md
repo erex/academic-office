@@ -15,8 +15,7 @@ weight = 20
 
 +++
 
-- Lecture 1  It has some clever name
+- Lecture 1  Introduction to distance sampling
     - {{< youtube fVTmRzpD9Aw >}}
 	- {{% staticref "files/lect1online-Introduction.pdf" %}}Handout{{% /staticref %}} 
-- CS102: An intro to computer science
-- CS103: An intro to computer science
+  - [Quiz] ({{< relref "https://erex.shinyapps.io/distance_sampling_analysis_of_duck_nests/" >}})
