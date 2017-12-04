@@ -18,4 +18,4 @@ weight = 20
 - Lecture 1  Introduction to distance sampling
     - {{< youtube fVTmRzpD9Aw >}}
 	- {{% staticref "files/lect1online-Introduction.pdf" %}}Handout{{% /staticref %}} 
-  - [Quiz]({{< ref "https://erex.shinyapps.io/distance_sampling_analysis_of_duck_nests/" >}})
+  - <a href="https://erex.shinyapps.io/distance_sampling_analysis_of_duck_nests/" target="_blank">Quiz</a>
