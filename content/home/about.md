@@ -35,4 +35,4 @@ weight = 5
 
 # Description of course
 
-If this is going to be a website for online distance sampling course, this will be the course description.
+As a website for online distance sampling course, this will be the course description.

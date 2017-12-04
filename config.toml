@@ -40,8 +40,8 @@ defaultContentLanguageInSubdir = false
   font = "default"
 
   # Your details.
-  name = "Rexstad"
-  role = "Research fellow"
+  name = "The distance project"
+  role = "Centre for Research into Ecological and Environmental Modelling"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -211,7 +211,7 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "twitter"
     icon_pack = "fa"
-    link = "@distancesamp"
+    link = "http://twitter.com/distancesamp"
 
   [[params.social]]
     icon = "google-scholar"
