@@ -213,15 +213,15 @@ defaultContentLanguageInSubdir = false
     icon_pack = "fa"
     link = "http://twitter.com/distancesamp"
 
-  [[params.social]]
-    icon = "google-scholar"
-    icon_pack = "ai"
-    link = ""
+#  [[params.social]]
+#    icon = "google-scholar"
+#    icon_pack = "ai"
+#    link = ""
 
-  [[params.social]]
-    icon = "github"
-    icon_pack = "fa"
-    link = ""
+#  [[params.social]]
+#    icon = "github"
+#    icon_pack = "fa"
+#    link = ""
 
 
 # Navigation Links
@@ -232,35 +232,35 @@ defaultContentLanguageInSubdir = false
   # Align the main menu to the right of the page? (true/false)
   align_right = true
 
-[[menu.main]]
-  name = "Home"
-  url = "#about"
-  weight = 1
+#[[menu.main]]
+#  name = "Home"
+#  url = "#about"
+#  weight = 1
 
-[[menu.main]]
-  name = "Publications"
-  url = "#publications_selected"
-  weight = 2
+#[[menu.main]]
+#  name = "Publications"
+#  url = "#publications_selected"
+#  weight = 2
 
-[[menu.main]]
-  name = "Posts"
-  url = "#posts"
-  weight = 3
+#[[menu.main]]
+#  name = "Posts"
+#  url = "#posts"
+#  weight = 3
 
-[[menu.main]]
-  name = "Projects"
-  url = "#projects"
-  weight = 4
+#[[menu.main]]
+#  name = "Projects"
+#  url = "#projects"
+#  weight = 4
 
-[[menu.main]]
-  name = "Teaching"
-  url = "#teaching"
-  weight = 5
+#[[menu.main]]
+#  name = "Teaching"
+#  url = "#teaching"
+#  weight = 5
 
-[[menu.main]]
-  name = "Contact"
-  url = "#contact"
-  weight = 6
+#[[menu.main]]
+#  name = "Contact"
+#  url = "#contact"
+#  weight = 6
 
 # Taxonomies.
 [taxonomies]
